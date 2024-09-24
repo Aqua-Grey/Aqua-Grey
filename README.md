@@ -4,10 +4,10 @@
 Gardening and Game Design
 
 - 🌱 I’m currently learning ...
-Unity; Python;
+  CircuitPython; Python;
 
 - 💞️ I’m looking to collaborate on ...
-ArcGIS Maps SDK for Unity; Jupyter Notebook for Cal-Adapt API
+  Adafruit electroinics; Makerspace project
 
 - 📫 How to reach me ...
 eco.chimera@outlook.com
