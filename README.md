@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aqua-Grey
+- 👋 Hi, I’m Alex.
 - 
 - 👀 I’m interested in ...
 Gardening and Game Design
